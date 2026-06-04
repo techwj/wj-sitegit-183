@@ -1,0 +1,88 @@
+# Validation Report - comfortable-bedding-buying
+
+Generated: 2026-06-04T11:36:01.963877
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Comfortable Bedding Buying
+- ✓ Article word count OK: Beginner Comfortable Bedding Buying: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Comfortable Bedding Buying
+- ✓ Article word count OK: Beginner Comfortable Bedding Buying Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Comfortable Bedding Buying
+- ✓ Article word count OK: Beginner Comfortable Bedding Buying in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Comfortable Bedding Buying
+- ✓ Article word count OK: Common Mistakes in Beginner Comfortable Bedding Buying
+- ✓ Article word count OK: Beginner Comfortable Bedding Buying for Beginners
+- ✓ Article word count OK: Advanced Beginner Comfortable Bedding Buying Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Comfortable Bedding Buying
+- ✓ Article word count OK: Advanced Comfortable Bedding Buying: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Comfortable Bedding Buying
+- ✓ Article word count OK: Advanced Comfortable Bedding Buying Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Comfortable Bedding Buying
+- ✓ Article word count OK: Advanced Comfortable Bedding Buying in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Comfortable Bedding Buying
+- ✓ Article word count OK: Common Mistakes in Advanced Comfortable Bedding Buying
+- ✓ Article word count OK: Advanced Comfortable Bedding Buying for Beginners
+- ✓ Article word count OK: Advanced Advanced Comfortable Bedding Buying Techniques
+- ✓ Article word count OK: The Ultimate Guide to Comfortable Bedding Buying Tips
+- ✓ Article word count OK: Comfortable Bedding Buying Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Comfortable Bedding Buying Tips
+- ✓ Article word count OK: Comfortable Bedding Buying Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Comfortable Bedding Buying Tips
+- ✓ Article word count OK: Comfortable Bedding Buying Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Comfortable Bedding Buying Tips
+- ✓ Article word count OK: Common Mistakes in Comfortable Bedding Buying Tips
+- ✓ Article word count OK: Comfortable Bedding Buying Tips for Beginners
+- ✓ Article word count OK: Advanced Comfortable Bedding Buying Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Comfortable Bedding Buying History
+- ✓ Article word count OK: Comfortable Bedding Buying History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Comfortable Bedding Buying History
+- ✓ Article word count OK: Comfortable Bedding Buying History Tips and Best Practices
+- ✓ Article word count OK: The History of Comfortable Bedding Buying History
+- ✓ Article word count OK: Comfortable Bedding Buying History in 2026: Current Trends
+- ✓ Article word count OK: Future of Comfortable Bedding Buying History
+- ✓ Article word count OK: Common Mistakes in Comfortable Bedding Buying History
+- ✓ Article word count OK: Comfortable Bedding Buying History for Beginners
+- ✓ Article word count OK: Advanced Comfortable Bedding Buying History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Comfortable Bedding Buying
+- ✓ Article word count OK: Trending Comfortable Bedding Buying: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Comfortable Bedding Buying
+- ✓ Article word count OK: Trending Comfortable Bedding Buying Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Comfortable Bedding Buying
+- ✓ Article word count OK: Trending Comfortable Bedding Buying in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Comfortable Bedding Buying
+- ✓ Article word count OK: Common Mistakes in Trending Comfortable Bedding Buying
+- ✓ Article word count OK: Trending Comfortable Bedding Buying for Beginners
+- ✓ Article word count OK: Advanced Trending Comfortable Bedding Buying Techniques
+- ✓ Article word count OK: The Ultimate Guide to Comfortable Bedding Buying Tutorials
+- ✓ Article word count OK: Comfortable Bedding Buying Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Comfortable Bedding Buying Tutorials
+- ✓ Article word count OK: Comfortable Bedding Buying Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Comfortable Bedding Buying Tutorials
+- ✓ Article word count OK: Comfortable Bedding Buying Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Comfortable Bedding Buying Tutorials
+- ✓ Article word count OK: Common Mistakes in Comfortable Bedding Buying Tutorials
+- ✓ Article word count OK: Comfortable Bedding Buying Tutorials for Beginners
+- ✓ Article word count OK: Advanced Comfortable Bedding Buying Tutorials Techniques
+- ✓ Ad configuration validated

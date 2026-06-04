@@ -1,0 +1,59 @@
+{
+  "siteId": "comfortable-bedding-buying",
+  "generatedAt": "2026-06-04T11:36:01.964240",
+  "categories": [
+    "beginner-comfortable-bedding-buying",
+    "advanced-comfortable-bedding-buying",
+    "tips-comfortable-bedding-buying",
+    "history-comfortable-bedding-buying",
+    "trending-comfortable-bedding-buying",
+    "tutorials-comfortable-bedding-buying"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-comfortable-bedding-buying",
+      "category_name": "Beginner Comfortable Bedding Buying"
+    },
+    {
+      "category_slug": "advanced-comfortable-bedding-buying",
+      "category_name": "Advanced Comfortable Bedding Buying"
+    },
+    {
+      "category_slug": "tips-comfortable-bedding-buying",
+      "category_name": "Comfortable Bedding Buying Tips"
+    },
+    {
+      "category_slug": "history-comfortable-bedding-buying",
+      "category_name": "Comfortable Bedding Buying History"
+    },
+    {
+      "category_slug": "trending-comfortable-bedding-buying",
+      "category_name": "Trending Comfortable Bedding Buying"
+    },
+    {
+      "category_slug": "tutorials-comfortable-bedding-buying",
+      "category_name": "Comfortable Bedding Buying Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "comfortable-bedding-buying",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Comfortable Bedding Buying Central",
+    "articles_per_row": 3
+  }
+}
